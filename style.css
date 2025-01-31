@@ -1,6 +1,6 @@
 /* Dark mode background */
 body {
-    background-color: #343541;
+    background-color: #1d1d1d;
     color: #ECECF1;
     font-family: "Inter", sans-serif;
     height: 100vh;
@@ -24,7 +24,7 @@ body {
 .welcome {
     text-align: center;
     color: #999;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 /* Chat messages */
@@ -49,7 +49,7 @@ body {
 /* Input container */
 #input-container {
     display: flex;
-    background: #40414F;
+    background: #1d1d1d;
     padding: 10px;
     position: fixed;
     bottom: 0;
